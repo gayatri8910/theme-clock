@@ -1,1 +1,1 @@
-# theme-clock
+The Quiz App is an interactive web-based application that allows users to test their knowledge through multiple-choice questions. Built with HTML, CSS, and JavaScript, it provides instant feedback, score tracking, and an easy way to restart the quiz. The app is lightweight, responsive, and customizable, making it a great project for learning front-end development and practicing DOM manipulation, event handling, and dynamic content rendering.# theme-clock
